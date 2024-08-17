@@ -1,9 +1,8 @@
 //utils
-
 @import './utils/global_grid';
 
 //components
-
+@import './components/cart';
+@import './components/filter';
+@import './components/header';
 @import './components/card';
-
-@import './components/filter'
